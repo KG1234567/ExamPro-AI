@@ -1,0 +1,7 @@
+question_number,question,question_type,user_answer,correct_answer,is_correct,options
+1,"What is the largest desert in the world, covering about 9,200,000 square kilometers?",MCQ,Sahara Desert,Sahara Desert,True,"['Sahara Desert', 'Gobi Desert', 'Mojave Desert', 'Atacama Desert']"
+2,What is the deepest lake in the world?,MCQ,Lake Baikal,Lake Baikal,True,"['Lake Baikal', 'Lake Tanganyika', 'Lake Malawi', 'Lake Vostok']"
+3,Which river flows through the Grand Canyon?,MCQ,Colorado River,Colorado River,True,"['Colorado River', 'Mississippi River', 'Rio Grande River', 'Snake River']"
+4,Which river is the longest in South America?,MCQ,Amazon River,Amazon River,True,"['Amazon River', 'Orinoco River', 'Magdalena River', 'Parana River']"
+5,What is the longest river in South America?,MCQ,Rio Grande,Amazon River,False,"['Rio Grande', 'Magdalena River', 'Amazon River', 'Orinoco River']"
+6,Which river is the longest in South America?,MCQ,Amazon River,Amazon River,True,"['Amazon River', 'Paraná River', 'Magdalena River', 'Orinoco River']"
